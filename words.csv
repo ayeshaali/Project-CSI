@@ -1,0 +1,71 @@
+Book, Word Count, Unique Word Count, Average Word Length, Longest Word, Vocabulary Richness Ratio, Total Number of Sentences, Sentence Richness Ratio, Words per sentence, Characters Per Sentence, Parts of Speech (noun:verb:adj:adv)
+Oliver Twist,157197,10286,4.344561,circumstantially,6.5433817% ,7757,75.413185% ,20.26518,112.60874,29162 : 18930 : 40148 : 27407
+,20 Most Frequent Words,,20 Most Frequent Capitalized Words
+,the,  06.11%,I,  01.06%
+,and,  03.43%,Mr,  00.68%
+,to,  02.51%,Oliver,  00.46%
+,of,  02.44%,The,  00.43%
+,a,  02.39%,He,  00.25%
+,he,  01.53%,Bumble,  00.23%
+,in,  01.51%,Sikes,  00.22%
+,his,  01.49%,Jew,  00.19%
+,that,  01.17%,Fagin,  00.18%
+,was,  01.14%,Mrs,  00.17%
+,it,  01.10%,It,  00.15%
+,i,  01.06%,You,  00.13%
+,you,  01.03%,What,  00.12%
+,with,  00.99%,Rose,  00.10%
+,as,  00.84%,Brownlow,  00.10%
+,said,  00.78%,And,  00.10%
+,had,  00.78%,There,  00.10%
+,for,  00.73%,A,  00.09%
+,mr,  00.68%,Monks,  00.08%
+,him,  00.68%,But,  00.08%
+ 
+Great Expectations,184383,10899,4.130885,architectooralooral,5.9110656% ,5127,47.041016% ,35.963135,189.94714,30458 : 21736 : 47470 : 34354
+,20 Most Frequent Words,,20 Most Frequent Capitalized Words
+,the,  04.42%,I,  03.51%
+,and,  03.85%,Mr,  00.38%
+,i,  03.52%,Joe,  00.38%
+,to,  02.80%,Miss,  00.20%
+,of,  02.41%,The,  00.20%
+,a,  02.19%,And,  00.20%
+,in,  01.64%,It,  00.19%
+,that,  01.62%,Pip,  00.18%
+,was,  01.54%,He,  00.17%
+,it,  01.45%,But,  00.16%
+,he,  01.20%,Herbert,  00.16%
+,you,  01.19%,You,  00.15%
+,had,  01.14%,Wemmick,  00.14%
+,my,  01.12%,Havisham,  00.13%
+,me,  01.08%,Estella,  00.13%
+,his,  01.01%,Biddy,  00.12%
+,as,  00.96%,Jaggers,  00.11%
+,with,  00.95%,When,  00.10%
+,at,  00.89%,As,  00.09%
+,on,  00.77%,Mrs,  00.09%
+ 
+A Tale of Two Cities,135611,9787,4.3025346,undistinguishable,7.216966% ,4125,42.147747% ,32.875393,179.31393,25363 : 15569 : 34144 : 25571
+,20 Most Frequent Words,,20 Most Frequent Capitalized Words
+,the,  05.92%,I,  01.43%
+,and,  03.69%,Mr,  00.46%
+,of,  02.96%,The,  00.45%
+,to,  02.63%,He,  00.29%
+,a,  02.17%,Lorry,  00.25%
+,in,  01.92%,It,  00.24%
+,it,  01.50%,Defarge,  00.21%
+,his,  01.48%,You,  00.17%
+,i,  01.43%,Miss,  00.16%
+,that,  01.41%,Doctor,  00.14%
+,he,  01.36%,But,  00.13%
+,was,  01.31%,Manette,  00.12%
+,you,  01.03%,Pross,  00.11%
+,with,  00.97%,Carton,  00.11%
+,had,  00.96%,And,  00.11%
+,as,  00.86%,Darnay,  00.10%
+,her,  00.77%,A,  00.10%
+,at,  00.76%,There,  00.10%
+,him,  00.72%,What,  00.10%
+,for,  00.71%,Madame,  00.09%
+ 
+Average,159063.67,10324.0,4.259327,,6.5571375% ,5669.6665,54.867317% ,29.701239,160.62328,28327.666 : 18745.0 : 40587.332 : 29110.666
